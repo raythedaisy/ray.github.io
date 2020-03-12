@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="">
-<head>
-    <meta charset="UTF-8">
 
 <style>
 body {
@@ -18,23 +14,10 @@ h1 {
 }
 
 
-.m{padding-bottom:50px}
-.m-target
-{color:white;}
+
 h1 {color: white;}
 
-.m-target{
 
-  color:white;
-  font-size: 20px
-
-}
-.m-target{  padding-bottom:50px;
-padding-top:50px;}
-
-nav{color: white;
- }
-  a{color:white;}
 
 </style>
 <title>CV</title>
