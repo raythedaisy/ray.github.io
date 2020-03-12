@@ -1,17 +1,53 @@
-Raeesa Aboo
-============
----?image stars2.png
-Education
----------
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
 
-2018-2021 (expected)
-Studies BSC Computer Science at the University of Pretoria
+<style>
+body {
+  background-image: url("stars2.png");
+}
 
-Coding Experience
-----------
-Java
-C++
-Python
-PHP
-JavaScript
+h1{
+  font-style: italic;
+}
 
+h1 {
+  font-size: 40px;
+
+}
+
+
+.m{padding-bottom:50px}
+.m-target
+{color:white;}
+h1 {color: white;}
+
+.m-target{
+
+  color:white;
+  font-size: 20px
+
+}
+.m-target{  padding-bottom:50px;
+padding-top:50px;}
+
+nav{color: white;
+ }
+  a{color:white;}
+
+</style>
+<title>CV</title>
+
+
+</head>
+
+<body>
+
+<h1>Raeesa Aboo</h1>
+
+
+  
+
+</body>
+</html> 
