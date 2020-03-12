@@ -1,0 +1,32 @@
+body {
+  background-image: url("stars2.png");
+}
+
+h1{
+  font-style: italic;
+}
+
+h1 {
+  font-size: 40px;
+
+}
+
+
+.m{padding-bottom:50px}
+.m-target
+{color:white;}
+h1 {color: white;}
+
+.m-target{
+
+  color:white;
+  font-size: 20px
+
+}
+.m-target{  padding-bottom:50px;
+padding-top:50px;}
+
+nav{color: white;
+ }
+  a{color:white;}
+
