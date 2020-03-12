@@ -2,7 +2,7 @@
 <html lang="">
 <head>
 
-<title>CV</title>
+<link rel="stylesheet" type="text/css" href="styles4.css">
 
 
 </head>
